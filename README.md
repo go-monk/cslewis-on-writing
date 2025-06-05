@@ -1,4 +1,4 @@
-I found [this letter](letter.png) somewhere on the Internet. It's an advice about writing from the great C.S. Lewis to a schoolgirl. I wonder if it could be useful for writing programs. Here's my attempt.
+I found [this letter](https://github.com/user-attachments/assets/12611df7-d110-4fd6-9d29-86642f7d33c6) somewhere on the Internet. It's an advice about writing from the great C.S. Lewis to a schoolgirl. I wonder if it could be useful for writing programs. Here's my attempt.
 
 (1) Turn off the notifications.
 
